@@ -1,2 +1,3 @@
 # titanic-survival-predictio
-First IA basic learning project i build 
+First IA basic learning project i build in kaggle
+
